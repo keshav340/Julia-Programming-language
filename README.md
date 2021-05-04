@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/docs-stable-blue.svg"
          alt="Documentation">
   </a>
-  <a href="https://julialang.slack.com/">
+  <a href="https://julialang.slack.com/join/shared_invite/zt-nmal0i0x-LcYEtdnTameGsXmBzMzgog#/shared-invite/email">
     <img src="https://img.shields.io/badge/chat-on%20slack-yellow.svg"
          alt="#julia">
   </a
