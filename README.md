@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/docs-stable-blue.svg"
          alt="Documentation">
   </a>
-  a href="https://slackinvite.julialang.org/">
+  <a href="https://slackinvite.julialang.org/">
     <img src="https://img.shields.io/badge/chat-on%20slack-yellow.svg"
-         alt="#mlj">
+         alt="#julia">
   </a
   </p>
   </h2>
