@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="materials/julia" alt="MLJ" width="200">
+    <img src="https://github.com/keshav340/Julia-Programming-language/blob/main/materials/julia.png"  width="200">
 </div>
 
 # Julia Programming language
