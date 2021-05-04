@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="materials/julia" alt="MLJ" width="200">
+</div>
+
 # Julia Programming language
 # New releases bring new features and bug fixes.  Since many of the packages are still in beta (version 0.x).
 # Any new release can introduce breaking changes.
