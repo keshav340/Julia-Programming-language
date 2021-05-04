@@ -11,7 +11,7 @@
   </a>
   a href="https://slackinvite.julialang.org/">
     <img src="https://img.shields.io/badge/chat-on%20slack-yellow.svg"
-         alt="#julia">
+         alt="#mlj">
   </a
   </p>
   </h2>
