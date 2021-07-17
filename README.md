@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/iamsahebgiri/add-readme">
-    <img alt="Julia-Programming-language" height="80" src="https://raw.githubusercontent.com/iamsahebgiri/add-readme/main/static/add-readme.png">
+    <img alt="Julia-Programming-language" height="80" src="https://github.com/keshav340/Julia-Programming-language/blob/main/materials/julia.png">
   </a>
 </p>
 <h1 align="center">Julia-Programming-language</h1>
@@ -71,7 +71,6 @@ npm run build
 - [ ] Define the endpoints, structure and parameters for the API.
 - [ ] Create the new branding and visual toolkit within Figma.
 - [ ] Update On-Demand Cloud dashboard and add usage-based pricing.
-
 
 ## ❤️ Acknowledgements
 
