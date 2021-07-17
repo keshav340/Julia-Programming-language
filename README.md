@@ -93,4 +93,4 @@ If you want to say thank you and/or support the active development of Julia-Prog
 
 ## 🧾 License
 
-MIT License Copyright (c) 2021 [John Doe](https://github.com/keshav340).
+MIT License Copyright (c) 2021 [Keshav Sharma](https://github.com/keshav340).
